@@ -4,7 +4,7 @@
     "merlin": "76dd32f31619b8e35e9f32e015224b633a0df8be8d5613c25b8838a370407698",
     "ashley": "862fda7e44c2596eecc9bd0e6abd04488ec1b03f89d05d4681999e0c02a8268b"
   },
-  relays": {
+  "relays": {
     "76dd32f31619b8e35e9f32e015224b633a0df8be8d5613c25b8838a370407698": [
       "wss://xmr.usenostr.org",
       "wss://nostr.wine"
